@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TimeTrade_SF1__Ad_Hoc_Meeting_Invitation</fullName>
+    <active>true</active>
+    <compactLayoutAssignment>TimeTrade_SF1__Main_Invitation_Compact_Layout</compactLayoutAssignment>
+    <description>With Ad-Hoc meetings, users can define specific criteria for the meeting invitation</description>
+    <label>Ad-Hoc Meeting Invitation</label>
+</RecordType>

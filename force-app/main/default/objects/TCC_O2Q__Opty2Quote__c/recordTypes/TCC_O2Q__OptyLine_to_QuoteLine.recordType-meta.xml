@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TCC_O2Q__OptyLine_to_QuoteLine</fullName>
+    <active>true</active>
+    <description>Record type to copy custom fields from Opportunity Line items to Quote Line items</description>
+    <label>OptyLine to QuoteLine</label>
+</RecordType>

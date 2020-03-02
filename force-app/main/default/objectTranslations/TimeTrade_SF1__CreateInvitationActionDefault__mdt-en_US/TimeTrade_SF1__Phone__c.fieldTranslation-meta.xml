@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specify default phone number when Location Type is specified as &quot;Phone&quot; and no other value for phone is provided. --></help>
+    <label><!-- Phone --></label>
+    <name>TimeTrade_SF1__Phone__c</name>
+</CustomFieldTranslation>

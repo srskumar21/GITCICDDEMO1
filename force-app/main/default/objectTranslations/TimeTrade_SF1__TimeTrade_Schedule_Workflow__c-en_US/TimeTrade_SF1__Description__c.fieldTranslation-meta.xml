@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This text appears on the questionnaire page below the title.  Use the Name field for the page title. --></help>
+    <label><!-- Header Text --></label>
+    <name>TimeTrade_SF1__Description__c</name>
+</CustomFieldTranslation>

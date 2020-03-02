@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Hardware</fullName>
+    <active>true</active>
+    <description>This asset category describes the hardware assets sold to an Animal Care Business (Clinic) that support or are used in conjunction with a sold software asset.</description>
+    <label>Hardware</label>
+    <picklistValues>
+        <picklist>Status</picklist>
+        <values>
+            <fullName>Installed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Purchased</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Registered</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shipped</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

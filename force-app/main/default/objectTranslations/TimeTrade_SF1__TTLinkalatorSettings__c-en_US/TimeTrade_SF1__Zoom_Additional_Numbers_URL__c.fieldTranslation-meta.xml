@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the Zoom URL that will display additional Zoom dial-in numbers. --></help>
+    <label><!-- Zoom Additional Numbers URL --></label>
+    <name>TimeTrade_SF1__Zoom_Additional_Numbers_URL__c</name>
+</CustomFieldTranslation>

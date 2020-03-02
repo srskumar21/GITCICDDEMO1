@@ -1,0 +1,5 @@
+The request you submitted to add/update a customer record has been approved and the changes are now live in Salesforce. This link will take you to the Account Update Request record. 
+{!Account_Update_Request__c.Link}
+
+Comments from the approver:
+{!ApprovalRequest.Comments}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>TimeTrade_SF1__Invitation__c$Name</field>
+    </columns>
+    <columns>
+        <field>TimeTrade_SF1__Invitation__c.TimeTrade_SF1__TimeTrade_Meetings__r.TimeTrade_SF1__Activities__r$ActivityDate</field>
+    </columns>
+    <columns>
+        <field>TimeTrade_SF1__Invitation__c.TimeTrade_SF1__TimeTrade_Meetings__r.TimeTrade_SF1__Activities__r$DurationInMinutes</field>
+    </columns>
+    <columns>
+        <field>TimeTrade_SF1__Invitation__c$TimeTrade_SF1__Availability_Information__c</field>
+    </columns>
+    <columns>
+        <field>TimeTrade_SF1__Invitation__c.TimeTrade_SF1__TimeTrade_Meetings__r$TimeTrade_SF1__Meeting_Status__c</field>
+    </columns>
+    <format>Summary</format>
+    <name>Meetings scheduled against a team</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>TimeTrade_SF1__TimeTrade_Invitations_With_Activities__c</reportType>
+    <scope>team</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>false</showGrandTotal>
+    <showSubTotals>false</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>TimeTrade_SF1__Invitation__c.TimeTrade_SF1__TimeTrade_Meetings__r.TimeTrade_SF1__Activities__r$ActivityDate</dateColumn>
+        <interval>INTERVAL_CURRENT</interval>
+    </timeFrameFilter>
+</Report>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Pooled Availability Type --></label>
+    <name>TimeTrade_SF1__Pooled_Availability_Type__c</name>
+    <picklistValues>
+        <masterLabel>Random</masterLabel>
+        <translation><!-- Random --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Round-Robin</masterLabel>
+        <translation><!-- Round-Robin --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter &quot;30Minutes&quot; for all typical installations.  This value must match a setting in TimeTrade&apos;s servers; do not change this value without consulting TimeTrade Support. --></help>
+    <label><!-- Custom Availability Busy Granularity --></label>
+    <name>TimeTrade_SF1__Custom_Availability_Busy_Granularity__c</name>
+</CustomFieldTranslation>

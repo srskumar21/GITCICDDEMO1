@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Knowledge</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Knowledge</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- FAQ --></label>
+        <name>FAQ</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- General --></label>
+        <name>General</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- How-To --></label>
+        <name>How_To</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Problem Solving --></label>
+        <name>Problem_Solving</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- You do not have the necessary level of access to make this Article visible to Customers --></errorMessage>
+        <name>Candidate_can_share_Articles_internally</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You do not have the necessary level of access to update the status to Validated --></errorMessage>
+        <name>Candidate_cannot_set_Status_to_Validated</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You do not have the necessary level of access to make this Article visible to the Public. --></errorMessage>
+        <name>Publisher_can_share_Article_Externally</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If this Article is Visible to the Public Knowledge Base, the Status cannot be Work in Progress or Not Validated --></errorMessage>
+        <name>Status_Should_be_Validated</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If this Article is Visible to Customers, the Status cannot be Work in Progress --></errorMessage>
+        <name>Status_cannot_set_to_Work_in_Progress</name>
+    </validationRules>
+</CustomObjectTranslation>

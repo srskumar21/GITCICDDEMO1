@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Copied from Invitation Location.  CTS Parameters may fill in merge references. --></help>
+    <label><!-- Location --></label>
+    <name>TimeTrade_SF1__Location__c</name>
+</CustomFieldTranslation>

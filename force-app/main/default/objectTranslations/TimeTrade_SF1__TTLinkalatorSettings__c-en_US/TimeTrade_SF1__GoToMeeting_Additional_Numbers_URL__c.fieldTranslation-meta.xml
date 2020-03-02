@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Optionally enter the GoToMeeting URL that will display additional GoToMeeting dial-in numbers. --></help>
+    <label><!-- GoToMeeting Additional Numbers URL --></label>
+    <name>TimeTrade_SF1__GoToMeeting_Additional_Numbers_URL__c</name>
+</CustomFieldTranslation>

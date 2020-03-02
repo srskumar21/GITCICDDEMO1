@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Product Area --></label>
+    <name>Product_Area__c</name>
+    <picklistValues>
+        <masterLabel>AVImark</masterLabel>
+        <translation><!-- AVImark --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AVImarkSQL</masterLabel>
+        <translation><!-- AVImarkSQL --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AXIS-Q</masterLabel>
+        <translation><!-- AXIS-Q --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AXIS-Q LENS</masterLabel>
+        <translation><!-- AXIS-Q LENS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Accounting</masterLabel>
+        <translation><!-- Accounting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Accounts Receivable</masterLabel>
+        <translation><!-- Accounts Receivable --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Additional Data Fields</masterLabel>
+        <translation><!-- Additional Data Fields --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Advantage</masterLabel>
+        <translation><!-- Advantage --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Analytics</masterLabel>
+        <translation><!-- Analytics --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ancillary</masterLabel>
+        <translation><!-- Ancillary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Appointment Calendar</masterLabel>
+        <translation><!-- Appointment Calendar --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Appointments</masterLabel>
+        <translation><!-- Appointments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Apps</masterLabel>
+        <translation><!-- Apps --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Attachments</masterLabel>
+        <translation><!-- Attachments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Boarding</masterLabel>
+        <translation><!-- Boarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Business \ Practice</masterLabel>
+        <translation><!-- Business \ Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CRM</masterLabel>
+        <translation><!-- CRM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Certificates</masterLabel>
+        <translation><!-- Certificates --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Area</masterLabel>
+        <translation><!-- Client Area --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Information Display</masterLabel>
+        <translation><!-- Client Information Display --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Selection Display</masterLabel>
+        <translation><!-- Client Selection Display --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Server</masterLabel>
+        <translation><!-- Client Server --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clinic Census</masterLabel>
+        <translation><!-- Clinic Census --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clinic Schedule</masterLabel>
+        <translation><!-- Clinic Schedule --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cloud</masterLabel>
+        <translation><!-- Cloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Communication History</masterLabel>
+        <translation><!-- Communication History --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Communications</masterLabel>
+        <translation><!-- Communications --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Configuration</masterLabel>
+        <translation><!-- Configuration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consent Forms</masterLabel>
+        <translation><!-- Consent Forms --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporate</masterLabel>
+        <translation><!-- Corporate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cubex</masterLabel>
+        <translation><!-- Cubex --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DICOM</masterLabel>
+        <translation><!-- DICOM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DVM Manager</masterLabel>
+        <translation><!-- DVM Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Data Vault</masterLabel>
+        <translation><!-- Data Vault --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Database</masterLabel>
+        <translation><!-- Database --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dental Chart</masterLabel>
+        <translation><!-- Dental Chart --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Desktop</masterLabel>
+        <translation><!-- Desktop --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Desktop Messenger</masterLabel>
+        <translation><!-- Desktop Messenger --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Devices</masterLabel>
+        <translation><!-- Devices --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Diagnosis List</masterLabel>
+        <translation><!-- Diagnosis List --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Discounting</masterLabel>
+        <translation><!-- Discounting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Document Management</masterLabel>
+        <translation><!-- Document Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Documents</masterLabel>
+        <translation><!-- Documents --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Documents and Forms</masterLabel>
+        <translation><!-- Documents and Forms --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dragonfly</masterLabel>
+        <translation><!-- Dragonfly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Drug Labels</masterLabel>
+        <translation><!-- Drug Labels --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EasyTime</masterLabel>
+        <translation><!-- EasyTime --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Elavon</masterLabel>
+        <translation><!-- Elavon --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Email</masterLabel>
+        <translation><!-- Email --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Employees</masterLabel>
+        <translation><!-- Employees --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Enhanced Reports</masterLabel>
+        <translation><!-- Enhanced Reports --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Entry History</masterLabel>
+        <translation><!-- Entry History --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Episodes of Care</masterLabel>
+        <translation><!-- Episodes of Care --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Estimates</masterLabel>
+        <translation><!-- Estimates --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EverSafe</masterLabel>
+        <translation><!-- EverSafe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Follow up List</masterLabel>
+        <translation><!-- Follow up List --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Ledger Link</masterLabel>
+        <translation><!-- General Ledger Link --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Questions</masterLabel>
+        <translation><!-- General Questions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Global Icons</masterLabel>
+        <translation><!-- Global Icons --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Glossary</masterLabel>
+        <translation><!-- Glossary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hardware</masterLabel>
+        <translation><!-- Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Help Menu</masterLabel>
+        <translation><!-- Help Menu --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hoof Chart</masterLabel>
+        <translation><!-- Hoof Chart --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hospital Setup</masterLabel>
+        <translation><!-- Hospital Setup --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Image Viewer</masterLabel>
+        <translation><!-- Image Viewer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ImproMed DOS</masterLabel>
+        <translation><!-- ImproMed DOS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Index Issues and AVImark files</masterLabel>
+        <translation><!-- Index Issues and AVImark files --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>InfoCenter</masterLabel>
+        <translation><!-- InfoCenter --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Information Search</masterLabel>
+        <translation><!-- Information Search --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Installation</masterLabel>
+        <translation><!-- Installation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Integrations</masterLabel>
+        <translation><!-- Integrations --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internet Security</masterLabel>
+        <translation><!-- Internet Security --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inventory</masterLabel>
+        <translation><!-- Inventory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Invoicing</masterLabel>
+        <translation><!-- Invoicing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Label</masterLabel>
+        <translation><!-- Label --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Laboratory</masterLabel>
+        <translation><!-- Laboratory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MPS</masterLabel>
+        <translation><!-- MPS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MS Office</masterLabel>
+        <translation><!-- MS Office --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Maintenance</masterLabel>
+        <translation><!-- Maintenance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Medical Condition Records</masterLabel>
+        <translation><!-- Medical Condition Records --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Medical History</masterLabel>
+        <translation><!-- Medical History --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Medical Records</masterLabel>
+        <translation><!-- Medical Records --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Message Center</masterLabel>
+        <translation><!-- Message Center --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Microsoft SQL Server</masterLabel>
+        <translation><!-- Microsoft SQL Server --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Edition</masterLabel>
+        <translation><!-- Mobile Edition --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Network</masterLabel>
+        <translation><!-- Network --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>OpenEdge</masterLabel>
+        <translation><!-- OpenEdge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Departments</masterLabel>
+        <translation><!-- Other Departments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Patient Area</masterLabel>
+        <translation><!-- Patient Area --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Patient Chart</masterLabel>
+        <translation><!-- Patient Chart --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Patient Processing</masterLabel>
+        <translation><!-- Patient Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pedigree</masterLabel>
+        <translation><!-- Pedigree --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Preferences</masterLabel>
+        <translation><!-- Preferences --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prescription Templates</masterLabel>
+        <translation><!-- Prescription Templates --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prescriptions</masterLabel>
+        <translation><!-- Prescriptions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Printer</masterLabel>
+        <translation><!-- Printer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Printing In AVImark</masterLabel>
+        <translation><!-- Printing In AVImark --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Problem List</masterLabel>
+        <translation><!-- Problem List --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Process Management</masterLabel>
+        <translation><!-- Process Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Setup</masterLabel>
+        <translation><!-- Product Setup --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Q&amp;A</masterLabel>
+        <translation><!-- Q&amp;A --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rapport</masterLabel>
+        <translation><!-- Rapport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reminders</masterLabel>
+        <translation><!-- Reminders --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Remote Desktop</masterLabel>
+        <translation><!-- Remote Desktop --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reporting</masterLabel>
+        <translation><!-- Reporting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports</masterLabel>
+        <translation><!-- Reports --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Accounts Receivable</masterLabel>
+        <translation><!-- Reports - Accounts Receivable --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Boarding</masterLabel>
+        <translation><!-- Reports - Boarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Census</masterLabel>
+        <translation><!-- Reports - Census --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Database</masterLabel>
+        <translation><!-- Reports - Database --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - EasyTime</masterLabel>
+        <translation><!-- Reports - EasyTime --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Employee</masterLabel>
+        <translation><!-- Reports - Employee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Financial</masterLabel>
+        <translation><!-- Reports - Financial --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Inventory</masterLabel>
+        <translation><!-- Reports - Inventory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Log</masterLabel>
+        <translation><!-- Reports - Log --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Medical Records</masterLabel>
+        <translation><!-- Reports - Medical Records --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Process Management</masterLabel>
+        <translation><!-- Reports - Process Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Product</masterLabel>
+        <translation><!-- Reports - Product --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Product Exports</masterLabel>
+        <translation><!-- Reports - Product Exports --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Product Letters</masterLabel>
+        <translation><!-- Reports - Product Letters --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Boarding</masterLabel>
+        <translation><!-- Reports - Setup Boarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Census</masterLabel>
+        <translation><!-- Reports - Setup Census --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Database</masterLabel>
+        <translation><!-- Reports - Setup Database --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup EasyTime</masterLabel>
+        <translation><!-- Reports - Setup EasyTime --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Employees</masterLabel>
+        <translation><!-- Reports - Setup Employees --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Inventory</masterLabel>
+        <translation><!-- Reports - Setup Inventory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Labels</masterLabel>
+        <translation><!-- Reports - Setup Labels --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Medical Records</masterLabel>
+        <translation><!-- Reports - Setup Medical Records --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Patient Processing</masterLabel>
+        <translation><!-- Reports - Setup Patient Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Prescriptions</masterLabel>
+        <translation><!-- Reports - Setup Prescriptions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Process Management</masterLabel>
+        <translation><!-- Reports - Setup Process Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Products</masterLabel>
+        <translation><!-- Reports - Setup Products --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Rechecks</masterLabel>
+        <translation><!-- Reports - Setup Rechecks --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Take Home Instructions</masterLabel>
+        <translation><!-- Reports - Setup Take Home Instructions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Setup Time Management</masterLabel>
+        <translation><!-- Reports - Setup Time Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Time Management</masterLabel>
+        <translation><!-- Reports - Time Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reports - Rechecks</masterLabel>
+        <translation><!-- Reports - Rechecks --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks Base Program</masterLabel>
+        <translation><!-- RxWorks Base Program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks Hardware</masterLabel>
+        <translation><!-- RxWorks Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks Integration</masterLabel>
+        <translation><!-- RxWorks Integration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks Modules</masterLabel>
+        <translation><!-- RxWorks Modules --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks Upgrade</masterLabel>
+        <translation><!-- RxWorks Upgrade --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SITE</masterLabel>
+        <translation><!-- SITE --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SQL</masterLabel>
+        <translation><!-- SQL --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ScanSnap</masterLabel>
+        <translation><!-- ScanSnap --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Scheduled Payments</masterLabel>
+        <translation><!-- Scheduled Payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Security</masterLabel>
+        <translation><!-- Security --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server</masterLabel>
+        <translation><!-- Server --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server Administration</masterLabel>
+        <translation><!-- Server Administration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sidekick</masterLabel>
+        <translation><!-- Sidekick --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Signature Devices</masterLabel>
+        <translation><!-- Signature Devices --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Slowness \ Lockups</masterLabel>
+        <translation><!-- Slowness \ Lockups --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>South Africa</masterLabel>
+        <translation><!-- South Africa --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Speedbar</masterLabel>
+        <translation><!-- Speedbar --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Spell Check</masterLabel>
+        <translation><!-- Spell Check --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Stale data</masterLabel>
+        <translation><!-- Stale data --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>State Requirement Controlled Substance</masterLabel>
+        <translation><!-- State Requirement Controlled Substance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Statements \ Collection Letters</masterLabel>
+        <translation><!-- Statements \ Collection Letters --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sunpoint</masterLabel>
+        <translation><!-- Sunpoint --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>System Tables</masterLabel>
+        <translation><!-- System Tables --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Take Home Instructions</masterLabel>
+        <translation><!-- Take Home Instructions --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ThinkPets</masterLabel>
+        <translation><!-- ThinkPets --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Time Management</masterLabel>
+        <translation><!-- Time Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Timeclock</masterLabel>
+        <translation><!-- Timeclock --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tools</masterLabel>
+        <translation><!-- Tools --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transaction Correction</masterLabel>
+        <translation><!-- Transaction Correction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Travel Sheets</masterLabel>
+        <translation><!-- Travel Sheets --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treatment List</masterLabel>
+        <translation><!-- Treatment List --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treatment Plans</masterLabel>
+        <translation><!-- Treatment Plans --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Uninstall</masterLabel>
+        <translation><!-- Uninstall --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Updating</masterLabel>
+        <translation><!-- Updating --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Users &amp; Security</masterLabel>
+        <translation><!-- Users &amp; Security --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Utility Programs</masterLabel>
+        <translation><!-- Utility Programs --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetLogic</masterLabel>
+        <translation><!-- VetLogic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetLogic - Avimark</masterLabel>
+        <translation><!-- VetLogic - Avimark --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetLogic - Impromed</masterLabel>
+        <translation><!-- VetLogic - Impromed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetPress</masterLabel>
+        <translation><!-- VetPress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetstreet</masterLabel>
+        <translation><!-- Vetstreet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetstreet Acct Manager</masterLabel>
+        <translation><!-- Vetstreet Acct Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM Base Program</masterLabel>
+        <translation><!-- VisionVPM Base Program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM Hardware</masterLabel>
+        <translation><!-- VisionVPM Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM Integrations</masterLabel>
+        <translation><!-- VisionVPM Integrations --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM Modules</masterLabel>
+        <translation><!-- VisionVPM Modules --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM Upgrades</masterLabel>
+        <translation><!-- VisionVPM Upgrades --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VivaVPM Hardware</masterLabel>
+        <translation><!-- VivaVPM Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vixfer install</masterLabel>
+        <translation><!-- Vixfer install --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wellness Plans</masterLabel>
+        <translation><!-- Wellness Plans --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Whiteboard</masterLabel>
+        <translation><!-- Whiteboard --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows 10</masterLabel>
+        <translation><!-- Windows 10 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows 7</masterLabel>
+        <translation><!-- Windows 7 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows 8 \ 8.1</masterLabel>
+        <translation><!-- Windows 8 \ 8.1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows Server 2008 R2</masterLabel>
+        <translation><!-- Windows Server 2008 R2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows Server 2012</masterLabel>
+        <translation><!-- Windows Server 2012 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows Server 2012 R2</masterLabel>
+        <translation><!-- Windows Server 2012 R2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows Server 2016</masterLabel>
+        <translation><!-- Windows Server 2016 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Windows Server 2019</masterLabel>
+        <translation><!-- Windows Server 2019 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Winvet</masterLabel>
+        <translation><!-- Winvet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Workflow</masterLabel>
+        <translation><!-- Workflow --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Worklist</masterLabel>
+        <translation><!-- Worklist --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Workstation</masterLabel>
+        <translation><!-- Workstation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>WorldPay</masterLabel>
+        <translation><!-- WorldPay --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>e-Travel Sheet</masterLabel>
+        <translation><!-- e-Travel Sheet --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

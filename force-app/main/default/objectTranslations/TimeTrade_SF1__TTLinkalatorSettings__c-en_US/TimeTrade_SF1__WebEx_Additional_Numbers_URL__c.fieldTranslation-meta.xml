@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the Webex URL that will display additional Webex dial-in numbers. --></help>
+    <label><!-- WebEx Additional Numbers URL --></label>
+    <name>TimeTrade_SF1__WebEx_Additional_Numbers_URL__c</name>
+</CustomFieldTranslation>

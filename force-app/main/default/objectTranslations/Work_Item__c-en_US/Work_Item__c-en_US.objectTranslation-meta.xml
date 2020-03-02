@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Work Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Work Items</value>
+    </caseValues>
+    <recordTypes>
+        <description><!-- Work Item type used by the Data governance team to process Keystore Items --></description>
+        <label><!-- Data Governance Task --></label>
+        <name>Data_Governance_Task</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Work Item type to manage task for the implementations team --></description>
+        <label><!-- Implementations Task --></label>
+        <name>Implementations_Task</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please fill out the description field in order to close the work item as No Action --></errorMessage>
+        <name>Description_required_for_No_Action</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please choose a template in order to launch a project from this work item.  If you do not wish to launch a project, uncheck the &quot;Launch Project&quot; checkbox --></errorMessage>
+        <name>Required_fields_to_Launch_Project</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Create_Covetrus_Account --></label>
+        <name>Create_Covetrus_Account</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Launch_Project --></label>
+        <name>Launch_Project</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter &quot;li&quot; to speciy normal day length for custom availability or &quot;ex&quot; to specifiy extended day length for custom availability. --></help>
+    <label><!-- Custom Availability Program ExternalID --></label>
+    <name>TimeTrade_SF1__Custom_Availability_Program_External_ID__c</name>
+</CustomFieldTranslation>

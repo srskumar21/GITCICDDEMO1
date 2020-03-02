@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Governed Fields --></label>
+        <name>Governed_Fields</name>
+    </fieldSets>
+    <recordTypes>
+        <label><!-- Covetrus Account --></label>
+        <name>Covetrus_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Prospect --></label>
+        <name>Prospect</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- You are not allowed to change the &quot;Account Name&quot; --></errorMessage>
+        <name>Account_Name_Field_Read_Only</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- When converting a Lead into an Account, it can only be created as a Prospect record type --></errorMessage>
+        <name>Convert_Prospect_Record_Type</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Billing Address, Shipping Address, Curreny and Phone are the required fields while creating Covetrus Account --></errorMessage>
+        <name>Validate_Address_Currency_and_Phone</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Launch_Project --></label>
+        <name>Launch_Project</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Open_Case --></label>
+        <name>Open_Case</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Phocas --></label>
+        <name>Phocas</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Request_Account_Update --></label>
+        <name>Request_Account_Update</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Book_Meeting_Generic --></label>
+        <name>TimeTrade_SF1__Book_Meeting_Generic</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_TimeTrade_Invitation --></label>
+        <name>TimeTrade_SF1__New_TimeTrade_Invitation</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Send_to_EchoSign --></label>
+        <name>echosign_dev1__Send_to_EchoSign</name>
+    </webLinks>
+</CustomObjectTranslation>

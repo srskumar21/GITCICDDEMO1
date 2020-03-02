@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use with the state date to calculate the Availability Start Date/Time value.  Must be a string like &quot;12:00 AM&quot;.  Will be interpreted in timezone of user executing process. --></help>
+    <label><!-- Availability Start Time --></label>
+    <name>TimeTrade_SF1__Availability_Start_Time__c</name>
+</CustomFieldTranslation>

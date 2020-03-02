@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the height of your image for the invitation callout email specifically which should be set to half the size of the general image height. --></help>
+    <label><!-- Email Template Callout Image Height --></label>
+    <name>TimeTrade_SF1__Email_Template_Callout_Image_Height__c</name>
+</CustomFieldTranslation>

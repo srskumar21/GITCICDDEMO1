@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>TimeTrade Meeting Invitation Callout</name>
+    <style>none</style>
+    <subject>Schedule Meeting for &quot;{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Invitation_Name__c}&quot;</subject>
+    <textOnly>Hi {!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Attendee_First_Name__c},
+
+{!TimeTrade_SF1__Invitation__c.TimeTrade_SF1__Notes__c}
+
+Please use the link below to schedule &quot;{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Invitation_Name__c}&quot;. Clicking the link will launch a scheduling page that displays attendees and available meeting times. Please select a time, add any additional information, click &quot;Schedule Meeting&quot;, and you will receive a confirmation email.
+
+We look forward to meeting with you!
+
+{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Schedule_URL__c}
+
+Thanks!
+{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Owner_Name__c}
+
+Powered by TimeTrade</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

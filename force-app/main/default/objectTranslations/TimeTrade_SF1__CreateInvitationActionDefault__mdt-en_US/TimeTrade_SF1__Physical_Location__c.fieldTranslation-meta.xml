@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Default value for Location when Physical is chosen for Location Type. --></help>
+    <label><!-- Physical Location --></label>
+    <name>TimeTrade_SF1__Physical_Location__c</name>
+</CustomFieldTranslation>

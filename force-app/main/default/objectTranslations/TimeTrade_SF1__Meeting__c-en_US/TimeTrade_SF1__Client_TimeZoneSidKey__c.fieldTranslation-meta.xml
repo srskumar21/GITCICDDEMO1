@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Represents the time zone selected by the client booking the appointment on the click-to-schedule page.  This field will only have a value for meetings booked via click-to-schedule. --></help>
+    <label><!-- Client TimeZoneSidKey --></label>
+    <name>TimeTrade_SF1__Client_TimeZoneSidKey__c</name>
+</CustomFieldTranslation>

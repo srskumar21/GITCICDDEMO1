@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter your join.me API Key.  See join.me instructions in the TimeTrade Scheduler Installation documentation and https://developer.join.me/ for details. --></help>
+    <label><!-- join.me API Key --></label>
+    <name>TimeTrade_SF1__Join_Me_API_Key__c</name>
+</CustomFieldTranslation>

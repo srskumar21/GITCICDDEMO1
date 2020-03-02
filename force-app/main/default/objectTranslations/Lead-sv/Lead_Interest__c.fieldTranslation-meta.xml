@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Lead Interest --></label>
+    <name>Lead_Interest__c</name>
+    <picklistValues>
+        <masterLabel>ACESoft Business Manager</masterLabel>
+        <translation><!-- ACESoft Business Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AHMS</masterLabel>
+        <translation><!-- AHMS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AIS</masterLabel>
+        <translation><!-- AIS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ATSystems</masterLabel>
+        <translation><!-- ATSystems --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AVImark Software</masterLabel>
+        <translation><!-- AVImark Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Advantage+ Software</masterLabel>
+        <translation><!-- Advantage+ Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AlisVet</masterLabel>
+        <translation><!-- AlisVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AltaPoint Veterinary Software</masterLabel>
+        <translation><!-- AltaPoint Veterinary Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Animal Intelligence</masterLabel>
+        <translation><!-- Animal Intelligence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Animana</masterLabel>
+        <translation><!-- Animana --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ardex</masterLabel>
+        <translation><!-- Ardex --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Aria</masterLabel>
+        <translation><!-- Aria --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>AutoTrack</masterLabel>
+        <translation><!-- AutoTrack --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bastet Windows</masterLabel>
+        <translation><!-- Bastet Windows --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>BeeFree</masterLabel>
+        <translation><!-- BeeFree --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ciderhouse</masterLabel>
+        <translation><!-- Ciderhouse --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ClienTrax</masterLabel>
+        <translation><!-- ClienTrax --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Recapture</masterLabel>
+        <translation><!-- Client Recapture --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ClinicWare</masterLabel>
+        <translation><!-- ClinicWare --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete Clinic Software</masterLabel>
+        <translation><!-- Complete Clinic Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cornerstone</masterLabel>
+        <translation><!-- Cornerstone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Card Processing</masterLabel>
+        <translation><!-- Credit Card Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Custom</masterLabel>
+        <translation><!-- Custom --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer Logic</masterLabel>
+        <translation><!-- Customer Logic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DVMAX Practice</masterLabel>
+        <translation><!-- DVMAX Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Data Backup</masterLabel>
+        <translation><!-- Data Backup --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dunlops - Vetsys</masterLabel>
+        <translation><!-- Dunlops - Vetsys --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EasyVet</masterLabel>
+        <translation><!-- EasyVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EazyVetPro</masterLabel>
+        <translation><!-- EazyVetPro --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Evolution</masterLabel>
+        <translation><!-- Evolution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EzyVet</masterLabel>
+        <translation><!-- EzyVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hardware</masterLabel>
+        <translation><!-- Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Healthy Pet Magazine</masterLabel>
+        <translation><!-- Healthy Pet Magazine --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Healthy Pet Magazine Seasonals</masterLabel>
+        <translation><!-- Healthy Pet Magazine Seasonals --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Iberical Vett</masterLabel>
+        <translation><!-- Iberical Vett --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ImproMed Equine Software</masterLabel>
+        <translation><!-- ImproMed Equine Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ImproMed Software</masterLabel>
+        <translation><!-- ImproMed Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IntraVet</masterLabel>
+        <translation><!-- IntraVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MedaVet</masterLabel>
+        <translation><!-- MedaVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Metron</masterLabel>
+        <translation><!-- Metron --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Neo</masterLabel>
+        <translation><!-- Neo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>NewLeaf Vet</masterLabel>
+        <translation><!-- NewLeaf Vet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None - Existing Practice</masterLabel>
+        <translation><!-- None - Existing Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None - New Practice</masterLabel>
+        <translation><!-- None - New Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>OMNIvet</masterLabel>
+        <translation><!-- OMNIvet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Online Academy</masterLabel>
+        <translation><!-- Online Academy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Onward Vet</masterLabel>
+        <translation><!-- Onward Vet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>OpenVPMS</masterLabel>
+        <translation><!-- OpenVPMS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PAWS</masterLabel>
+        <translation><!-- PAWS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PCvet Medical</masterLabel>
+        <translation><!-- PCvet Medical --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pack Leader DVM</masterLabel>
+        <translation><!-- Pack Leader DVM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Panacea</masterLabel>
+        <translation><!-- Panacea --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pet ID</masterLabel>
+        <translation><!-- Pet ID --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Practice Management Software</masterLabel>
+        <translation><!-- Practice Management Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PremVet</masterLabel>
+        <translation><!-- PremVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Quick Vet</masterLabel>
+        <translation><!-- Quick Vet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rapport</masterLabel>
+        <translation><!-- Rapport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reminder Cards</masterLabel>
+        <translation><!-- Reminder Cards --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RoboVet</masterLabel>
+        <translation><!-- RoboVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks</masterLabel>
+        <translation><!-- RxWorks --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Social Management</masterLabel>
+        <translation><!-- Social Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sparkline</masterLabel>
+        <translation><!-- Sparkline --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SpecVet</masterLabel>
+        <translation><!-- SpecVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>StringSoft</masterLabel>
+        <translation><!-- StringSoft --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Support</masterLabel>
+        <translation><!-- Support --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TOPAZ</masterLabel>
+        <translation><!-- TOPAZ --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Teleos</masterLabel>
+        <translation><!-- Teleos --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TopVet</masterLabel>
+        <translation><!-- TopVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Training</masterLabel>
+        <translation><!-- Training --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ventana</masterLabel>
+        <translation><!-- Ventana --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vet Aid</masterLabel>
+        <translation><!-- Vet Aid --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vet Blue</masterLabel>
+        <translation><!-- Vet Blue --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vet in Cloud</masterLabel>
+        <translation><!-- Vet in Cloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetCloud</masterLabel>
+        <translation><!-- VetCloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetDirector</masterLabel>
+        <translation><!-- VetDirector --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetFM</masterLabel>
+        <translation><!-- VetFM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetGeo</masterLabel>
+        <translation><!-- VetGeo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetIT</masterLabel>
+        <translation><!-- VetIT --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetSCOPE</masterLabel>
+        <translation><!-- VetSCOPE --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetSpace</masterLabel>
+        <translation><!-- VetSpace --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetTux</masterLabel>
+        <translation><!-- VetTux --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VetWare</masterLabel>
+        <translation><!-- VetWare --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetcare</masterLabel>
+        <translation><!-- Vetcare --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VeterinaryGate</masterLabel>
+        <translation><!-- VeterinaryGate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetlink</masterLabel>
+        <translation><!-- Vetlink --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetmanage</masterLabel>
+        <translation><!-- Vetmanage --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetmaster</masterLabel>
+        <translation><!-- Vetmaster --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetport</masterLabel>
+        <translation><!-- Vetport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetstreet</masterLabel>
+        <translation><!-- Vetstreet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetter</masterLabel>
+        <translation><!-- Vetter --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM</masterLabel>
+        <translation><!-- VisionVPM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Viva</masterLabel>
+        <translation><!-- Viva --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Voyager</masterLabel>
+        <translation><!-- Voyager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Websites</masterLabel>
+        <translation><!-- Websites --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ePetHealth</masterLabel>
+        <translation><!-- ePetHealth --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>eVetPractice</masterLabel>
+        <translation><!-- eVetPractice --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

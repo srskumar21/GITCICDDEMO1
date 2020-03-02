@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the dial-in number for your Webex account. --></help>
+    <label><!-- WebEx DialIn Number --></label>
+    <name>TimeTrade_SF1__WebEx_DialIn_Number__c</name>
+</CustomFieldTranslation>

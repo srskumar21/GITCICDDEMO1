@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Warehouse --></label>
+    <name>Warehouse__c</name>
+    <picklistValues>
+        <masterLabel>002 - Queensland</masterLabel>
+        <translation><!-- 002 - Queensland --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>003 - North Queensland</masterLabel>
+        <translation><!-- 003 - North Queensland --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>004 - NSW</masterLabel>
+        <translation><!-- 004 - NSW --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>008 - Victoria</masterLabel>
+        <translation><!-- 008 - Victoria --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>009 - SA</masterLabel>
+        <translation><!-- 009 - SA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>010 - WA</masterLabel>
+        <translation><!-- 010 - WA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>011 - NZ - Auckland</masterLabel>
+        <translation><!-- 011 - NZ - Auckland --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>012 - NZ - Palmerston North</masterLabel>
+        <translation><!-- 012 - NZ - Palmerston North --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>013 - Christchurch</masterLabel>
+        <translation><!-- 013 - Christchurch --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>019 - Provet Tasmania</masterLabel>
+        <translation><!-- 019 - Provet Tasmania --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

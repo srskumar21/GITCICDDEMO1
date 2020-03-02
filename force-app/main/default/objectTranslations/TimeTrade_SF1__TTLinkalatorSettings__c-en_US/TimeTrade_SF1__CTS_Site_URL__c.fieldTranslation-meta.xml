@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the base URL for the Salesforce ClickToSchedule site. --></help>
+    <label><!-- CTS Site URL --></label>
+    <name>TimeTrade_SF1__CTS_Site_URL__c</name>
+</CustomFieldTranslation>

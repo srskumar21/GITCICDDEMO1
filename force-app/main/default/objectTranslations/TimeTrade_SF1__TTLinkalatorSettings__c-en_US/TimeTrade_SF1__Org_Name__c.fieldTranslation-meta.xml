@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the Organization Name value you have specified on Company Information page in Setup. --></help>
+    <label><!-- Org Name --></label>
+    <name>TimeTrade_SF1__Org_Name__c</name>
+</CustomFieldTranslation>

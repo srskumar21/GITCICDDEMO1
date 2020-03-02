@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <validationRules>
+        <errorMessage><!-- Template Unique Name must be specified if the notification is enabled --></errorMessage>
+        <name>TimeTrade_SF1__Validate_Entry_if_CheckBox_Set</name>
+    </validationRules>
+</CustomObjectTranslation>

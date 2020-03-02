@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter hex color code with #, such as #FFAAAA, to set the background color of the footer bar on TimeTrade email templates. --></help>
+    <label><!-- Email Template Background Color Footer --></label>
+    <name>TimeTrade_SF1__Email_Template_Footer_Background_color__c</name>
+</CustomFieldTranslation>

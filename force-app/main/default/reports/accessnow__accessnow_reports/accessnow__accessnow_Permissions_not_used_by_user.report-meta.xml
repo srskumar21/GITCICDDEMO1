@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>accessnow__ACNW_Permission__c.accessnow__Name__c</field>
+    </columns>
+    <columns>
+        <field>accessnow__ACNW_User_Permission__c.accessnow__Permission_Count__c</field>
+    </columns>
+    <columns>
+        <field>accessnow__ACNW_User_Permission__c.accessnow__User__c</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>accessnow__ACNW_User_Permission__c.accessnow__Permission_Count__c</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>0</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>accessnow Permissions Not used by user</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>CustomEntityCustomEntity$accessnow__ACNW_Permission__c$accessnow__ACNW_User_Permission__c</reportType>
+    <scope>user</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>CUST_CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

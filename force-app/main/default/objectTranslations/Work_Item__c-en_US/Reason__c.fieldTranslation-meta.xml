@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Displays the reason for the work item. --></help>
+    <label><!-- Reason --></label>
+    <name>Reason__c</name>
+    <picklistValues>
+        <masterLabel>Ancillary Installation</masterLabel>
+        <translation><!-- Ancillary Installation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cancellation</masterLabel>
+        <translation><!-- Cancellation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Change of Ownership</masterLabel>
+        <translation><!-- Change of Ownership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Request</masterLabel>
+        <translation><!-- Credit Request --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Key Mapping</masterLabel>
+        <translation><!-- Key Mapping --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New Record</masterLabel>
+        <translation><!-- New Record --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>On-Site Update</masterLabel>
+        <translation><!-- On-Site Update --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Order Return</masterLabel>
+        <translation><!-- Order Return --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Onboarding</masterLabel>
+        <translation><!-- Product Onboarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Record Delete</masterLabel>
+        <translation><!-- Record Delete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Record Update</masterLabel>
+        <translation><!-- Record Update --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Remote PIMS Update</masterLabel>
+        <translation><!-- Remote PIMS Update --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Training Request</masterLabel>
+        <translation><!-- Training Request --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

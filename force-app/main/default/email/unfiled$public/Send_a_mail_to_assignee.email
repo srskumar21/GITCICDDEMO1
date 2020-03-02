@@ -1,0 +1,12 @@
+<html>
+<body>
+Hi {!Error_Logger__c.Assigned_To__c}, <br><br>
+
+Incident <a href="{!Error_Logger__c.Link} " > {!Error_Logger__c.Name}  </a> has been assigned to you. <br><br>
+
+
+Regards,<br>
+<b>Error Logger Support</b>
+
+</body>
+</html>

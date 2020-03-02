@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter a comma-delimited list of one or more of &quot;Lead&quot;, &quot;Contact&quot;, and/or &quot;Person Account&quot; to search existing records for external attendees. Leave blank to disable searching. --></help>
+    <label><!-- External Attendee Search From --></label>
+    <name>TimeTrade_SF1__Search_External_Attendee_from__c</name>
+</CustomFieldTranslation>

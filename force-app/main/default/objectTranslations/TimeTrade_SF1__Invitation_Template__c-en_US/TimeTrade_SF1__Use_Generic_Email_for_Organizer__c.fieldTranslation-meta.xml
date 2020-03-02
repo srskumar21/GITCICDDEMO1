@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Check this box when using an email client such as Gmail or G Suite that will not automatically process an .ics file when the organizer in the file is the same as the recipient&apos;s email address. --></help>
+    <label><!-- Use Generic Email for Organizer --></label>
+    <name>TimeTrade_SF1__Use_Generic_Email_for_Organizer__c</name>
+</CustomFieldTranslation>

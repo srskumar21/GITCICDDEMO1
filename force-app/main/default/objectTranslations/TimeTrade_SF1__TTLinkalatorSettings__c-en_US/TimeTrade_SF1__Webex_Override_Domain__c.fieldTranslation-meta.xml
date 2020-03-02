@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When using a custom domain with Webex, enter the root URL for your Webex instance. --></help>
+    <label><!-- Webex Override Domain --></label>
+    <name>TimeTrade_SF1__Webex_Override_Domain__c</name>
+</CustomFieldTranslation>

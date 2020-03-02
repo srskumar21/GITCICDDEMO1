@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is checked when the invitation is defined as dynamic.  In dynamic invitations, all internal attendees are defined when ClickToSchedule is launched based on parameters and other Invitation attributes. --></help>
+    <label><!-- Dynamic Invitation --></label>
+    <name>TimeTrade_SF1__Dynamic__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter https://sfdomain/apex/Timetrade_SF1__AuthenticateJoinMeCredentials where &quot;sfdomain&quot; is the domain of your Salesforce instance.  See join.me instructions in the TimeTrade Scheduler Installation documentation for more information. --></help>
+    <label><!-- join.me Callback URL --></label>
+    <name>TimeTrade_SF1__Join_Me_Redirect_URL__c</name>
+</CustomFieldTranslation>

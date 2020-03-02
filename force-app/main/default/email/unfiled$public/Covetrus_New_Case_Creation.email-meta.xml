@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Case Creation</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Covetrus_Logo</letterhead>
+    <name>Covetrus New Case Creation</name>
+    <style>freeForm</style>
+    <subject>Case {!Case.CaseNumber} Submitted</subject>
+    <textOnly>Hi,
+
+Thank you for submitting a support enquiry with Covetrus.
+
+This email is to confirm that a support ticket has been logged and we will be in touch shortly.
+
+
+ISSUE
+{!Case.Subject}
+
+ADDITIONAL INFO
+{!Case.Description}
+
+WHILE YOU WAIT
+We strongly recommend that you check out the Online Portal for learning resources (training videos, online manual, release notes and the community) and technical documentation. If you don&#39;t have an account already you can register for an account with the links below.
+
+
+Kind regards,
+
+Covetrus,
+
+Australia &amp; New Zealand - LOGIN | REGISTER
+
+Americas, Europe, Middle East &amp; Africa - LOGIN | REGISTER
+
+EMAIL -  support.rxworks@covetrus.com | support.visionvpm@covetrus.com
+
+WEBSITE - Australia &amp; New Zealand | www.softwareservices.covetrus.com/apac
+WEBSITE - AMERICAS, EUROPE, MIDDLE EAST &amp; AFRICA | www.softwareservices.covetrus.com/emea
+
+
+{!Case.Thread_Id}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

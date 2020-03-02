@@ -1,0 +1,14 @@
+Hi {!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Attendee_First_Name_Standard__c},<br /><br />
+
+{!TimeTrade_SF1__Invitation__c.TimeTrade_SF1__Notes__c}<br /><br />
+
+Please use the link below to schedule "{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Invitation_Name__c}". Clicking the link will launch a scheduling page that displays attendees and available meeting times. Please select a time, add any additional information, click "Schedule Meeting", and you will receive a confirmation email.
+<br /><br />
+We look forward to meeting with you!
+<br /><br />
+
+ <a title="Schedule an Appointment" href ="{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Schedule_URL__c}"><img src="https://www.timetrade.com/sites/all/themes/timetrade/img/CTA_Button_Top_Nav.png" alt="CTS" width="150"/></a>
+<br /><br /><br /><br />
+
+Thanks!<br />
+{!TimeTrade_SF1__Customer_Attendee__c.TimeTrade_SF1__Owner_Name__c}<br /><img src="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_template_callout_image__c}" alt="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Callout_Alt_text__c}" width="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Callout_Image_Width__c}" height="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Callout_Image_Height__c}"/>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Used when Availability Type is &quot;Date Range&quot;.  Number of days after invitation creation date that availability range ends&apos; --></help>
+    <label><!-- Availability End Day Offset --></label>
+    <name>TimeTrade_SF1__Availability_End_Day_Offset__c</name>
+</CustomFieldTranslation>

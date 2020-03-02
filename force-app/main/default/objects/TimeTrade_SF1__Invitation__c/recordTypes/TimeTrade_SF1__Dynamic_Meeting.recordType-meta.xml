@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TimeTrade_SF1__Dynamic_Meeting</fullName>
+    <active>true</active>
+    <description>For a Dynamic Meeting Invitation, all internal attendees are determined when ClickToSchedule is launched based on parameters and other Invitation attributes.</description>
+    <label>Dynamic Meeting</label>
+</RecordType>

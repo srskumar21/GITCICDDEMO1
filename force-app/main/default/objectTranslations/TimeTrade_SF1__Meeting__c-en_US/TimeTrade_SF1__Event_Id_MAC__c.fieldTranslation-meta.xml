@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field functions as a more secure ID for the related Event. I contains a large number of significant digits so there is no practical chance of accessing another event by incrementing digits. --></help>
+    <label><!-- Event Id MAC --></label>
+    <name>TimeTrade_SF1__Event_Id_MAC__c</name>
+</CustomFieldTranslation>

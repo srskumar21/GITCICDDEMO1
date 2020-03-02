@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- CriteriaEditPage --></label>
+        <name>TimeTrade_SF1__CriteriaEditPage</name>
+    </fieldSets>
+    <validationRules>
+        <errorMessage><!-- Please populate the Controlling field criteria. --></errorMessage>
+        <name>TimeTrade_SF1__Check_if_controlling_field_is_blank</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the controlling field object is same as the picklist object. --></errorMessage>
+        <name>TimeTrade_SF1__Ensure_Object_name_of_dependent_picklist</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Reorder_Questions --></label>
+        <name>TimeTrade_SF1__Reorder_Questions</name>
+    </webLinks>
+</CustomObjectTranslation>

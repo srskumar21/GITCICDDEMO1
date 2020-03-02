@@ -1,0 +1,89 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+      p {
+        margin: 0;
+        padding: 0;
+        margin-bottom: 0;
+      }
+    </style>
+</head>
+<body>
+<table cellpadding="5" class="body" bgcolor="#f6f6f6" style="background-color: #f6f6f6; width: 100%; margin-left: auto; margin-right: auto; !important;">
+      <tr>
+        <td>
+          <table cellspacing="0" cellpadding="20" valign="top" align="center" style="border: none; width: 550px;  margin-left: auto; margin-right: auto;">
+            <tr>
+              <td class="header"  style="background-color:{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Header_Background_Color__c}; color:{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Color__c}; font-family: sans-serif; font-size: 14px;">
+                <img src="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Image__c}" alt="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Image_Alt__c}" width="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Image_Width__c}" height="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Image_Height__c}"/>
+              </td>
+            </tr>
+            <tr>
+              <td class="status" bgcolor="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_BackgroundColor__c}" style="background-color: {!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_BackgroundColor__c}; color: {!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Color__c}; font-family: sans-serif; font-size: 14px;">
+                Your meeting has been confirmed as follows:
+              </td>
+            </tr>
+            <tr>
+              <td class="content" bgcolor="#FFFFFF" style="background-color: #FFFFFF; color: #000000; font-family: sans-serif; font-size: 14px;">
+                <table id="details">
+                  <tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Subject:</b> <br/>{!Event.Subject}<br /><br />
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Date and Time:</b> <br/>
+                      {!Event.ttStartDateTime}<br /><a href="{!TimeTrade_SF1__Meeting__c.TimeTrade_SF1__Schedule_URL__c}">Click to view, reschedule, or cancel</a><br /><br />
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Internal Attendees:</b> <br/>
+                      {!Event.ttInternalAttendees}<br />
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Client Attendees:</b> <br/>
+                      {!Event.ttClientAttendees}<br />
+                      </td>
+                  </tr>
+<tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Organizer Notes:</b> <br/>
+                      {!TimeTrade_SF1__Meeting__c.TimeTrade_SF1__Notes__c}<br /><br />
+                      </td>
+                  </tr>
+
+                  <tr>
+                      <td style="font-family: sans-serif; line-height: 1.5em; font-size: 14px;"><b>Client Information:</b>
+               <pre style=" font-family: sans-serif; font-size: 14px;">{!TimeTrade_SF1__Meeting__c.TimeTrade_SF1__Description__c}</pre><br /><br />
+                </td>
+                  </tr>
+                    
+                  <tr>
+                      <td style="font-family: Trebuchet MS; font-size: 14px;">
+                        {!TimeTrade_SF1__Meeting__c.TimeTrade_SF1__Location_Callin_HTML__c}
+                      </td>
+                  </tr>
+                  </table>
+              </td>
+            </tr>
+            <tr>
+              <td class="footer" bgcolor="{!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Footer_Background_color__c}" style="background-color: {!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__Email_Template_Footer_Background_color__c}; color: {!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Color__c}; font-family: sans-serif; font-size: 14px;">
+                <div style="height: auto; text-align: center; vertical-align: middle;">
+                  <p style="margin-top:0;margin-bottom:10px;color: {!TimeTrade_SF1__TTLinkalatorSettings__c.TimeTrade_SF1__EmailTemplate_Color__c};" class="website">Powered by TimeTrade</p>
+                </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+</body>
+</html>
