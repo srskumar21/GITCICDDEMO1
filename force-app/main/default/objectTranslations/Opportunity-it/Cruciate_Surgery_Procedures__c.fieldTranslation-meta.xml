@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Cruciate Surgery Procedures --></label>
+    <name>Cruciate_Surgery_Procedures__c</name>
+    <picklistValues>
+        <masterLabel>DeAngelis</masterLabel>
+        <translation><!-- DeAngelis --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TPLO</masterLabel>
+        <translation><!-- TPLO --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TTA</masterLabel>
+        <translation><!-- TTA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TTO</masterLabel>
+        <translation><!-- TTO --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

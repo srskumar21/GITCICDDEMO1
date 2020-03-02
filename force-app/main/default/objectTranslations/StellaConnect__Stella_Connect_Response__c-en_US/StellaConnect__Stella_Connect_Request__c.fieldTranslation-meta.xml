@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Stella Connect Request --></label>
+    <name>StellaConnect__Stella_Connect_Request__c</name>
+    <relationshipLabel><!-- Stella Connect Responses --></relationshipLabel>
+</CustomFieldTranslation>

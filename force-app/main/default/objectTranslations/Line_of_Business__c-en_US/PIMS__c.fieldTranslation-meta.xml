@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- PIMS --></label>
+    <name>PIMS__c</name>
+    <picklistValues>
+        <masterLabel>Avimark</masterLabel>
+        <translation><!-- Avimark --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Impromed</masterLabel>
+        <translation><!-- Impromed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rapport</masterLabel>
+        <translation><!-- Rapport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Robovet</masterLabel>
+        <translation><!-- Robovet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks</masterLabel>
+        <translation><!-- RxWorks --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM</masterLabel>
+        <translation><!-- VisionVPM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Viva</masterLabel>
+        <translation><!-- Viva --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

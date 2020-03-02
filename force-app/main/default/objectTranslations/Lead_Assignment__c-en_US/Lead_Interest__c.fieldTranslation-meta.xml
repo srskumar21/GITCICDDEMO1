@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Lead Interest --></label>
+    <name>Lead_Interest__c</name>
+    <picklistValues>
+        <masterLabel>AVImark Software</masterLabel>
+        <translation><!-- AVImark Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Advantage+ Software</masterLabel>
+        <translation><!-- Advantage+ Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Client Recapture</masterLabel>
+        <translation><!-- Client Recapture --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Card Processing</masterLabel>
+        <translation><!-- Credit Card Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Data Backup</masterLabel>
+        <translation><!-- Data Backup --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hardware</masterLabel>
+        <translation><!-- Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Healthy Pet Magazine</masterLabel>
+        <translation><!-- Healthy Pet Magazine --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Healthy Pet Magazine Seasonals</masterLabel>
+        <translation><!-- Healthy Pet Magazine Seasonals --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ImproMed Equine Software</masterLabel>
+        <translation><!-- ImproMed Equine Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>ImproMed Software</masterLabel>
+        <translation><!-- ImproMed Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Online Academy</masterLabel>
+        <translation><!-- Online Academy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pet ID</masterLabel>
+        <translation><!-- Pet ID --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Practice Management Software</masterLabel>
+        <translation><!-- Practice Management Software --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rapport</masterLabel>
+        <translation><!-- Rapport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reminder Cards</masterLabel>
+        <translation><!-- Reminder Cards --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RoboVet</masterLabel>
+        <translation><!-- RoboVet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>RxWorks</masterLabel>
+        <translation><!-- RxWorks --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Social Management</masterLabel>
+        <translation><!-- Social Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sparkline</masterLabel>
+        <translation><!-- Sparkline --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Support</masterLabel>
+        <translation><!-- Support --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Training</masterLabel>
+        <translation><!-- Training --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ventana</masterLabel>
+        <translation><!-- Ventana --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vetstreet</masterLabel>
+        <translation><!-- Vetstreet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VisionVPM</masterLabel>
+        <translation><!-- VisionVPM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Websites</masterLabel>
+        <translation><!-- Websites --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>eVetPractice</masterLabel>
+        <translation><!-- eVetPractice --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

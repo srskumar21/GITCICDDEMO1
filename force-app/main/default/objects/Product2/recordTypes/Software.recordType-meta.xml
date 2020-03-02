@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Software</fullName>
+    <active>true</active>
+    <label>Software</label>
+    <picklistValues>
+        <picklist>Family</picklist>
+        <values>
+            <fullName>3rd Party Software</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Covetrus Software</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>QuantityUnitOfMeasure</picklist>
+        <values>
+            <fullName>Each</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

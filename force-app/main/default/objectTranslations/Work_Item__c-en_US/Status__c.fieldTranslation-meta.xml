@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is used to track status of Work Item. --></help>
+    <label><!-- Status --></label>
+    <name>Status__c</name>
+    <picklistValues>
+        <masterLabel>Closed</masterLabel>
+        <translation><!-- Closed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed - Enterprise Account Updated</masterLabel>
+        <translation><!-- Closed - Enterprise Account Updated --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed - Linked to Enterprise Account</masterLabel>
+        <translation><!-- Closed - Linked to Enterprise Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed - New Enterprise Account Created</masterLabel>
+        <translation><!-- Closed - New Enterprise Account Created --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed - No Action</masterLabel>
+        <translation><!-- Closed - No Action --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Escalated</masterLabel>
+        <translation><!-- Escalated --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New</masterLabel>
+        <translation><!-- New --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>On Hold</masterLabel>
+        <translation><!-- On Hold --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

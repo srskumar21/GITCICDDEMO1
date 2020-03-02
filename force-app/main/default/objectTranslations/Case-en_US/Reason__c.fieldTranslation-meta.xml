@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Reason --></label>
+    <name>Reason__c</name>
+    <picklistValues>
+        <masterLabel>Administration</masterLabel>
+        <translation><!-- Administration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Back Order</masterLabel>
+        <translation><!-- Back Order --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Batch enquiry</masterLabel>
+        <translation><!-- Batch enquiry --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clinic</masterLabel>
+        <translation><!-- Clinic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporate Brand</masterLabel>
+        <translation><!-- Corporate Brand --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer Service</masterLabel>
+        <translation><!-- Customer Service --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DC</masterLabel>
+        <translation><!-- DC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Damage</masterLabel>
+        <translation><!-- Damage --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mis ship</masterLabel>
+        <translation><!-- Mis ship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New Provet Account</masterLabel>
+        <translation><!-- New Provet Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New Provet Connect Account</masterLabel>
+        <translation><!-- New Provet Connect Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pricing</masterLabel>
+        <translation><!-- Pricing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product</masterLabel>
+        <translation><!-- Product --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Availability</masterLabel>
+        <translation><!-- Product Availability --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Picture / Image</masterLabel>
+        <translation><!-- Product Picture / Image --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Repair</masterLabel>
+        <translation><!-- Product Repair --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product information</masterLabel>
+        <translation><!-- Product information --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Provet Plus Redemption</masterLabel>
+        <translation><!-- Provet Plus Redemption --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Report</masterLabel>
+        <translation><!-- Report --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sales Question</masterLabel>
+        <translation><!-- Sales Question --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Short ship</masterLabel>
+        <translation><!-- Short ship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Track Order</masterLabel>
+        <translation><!-- Track Order --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trans &amp; Logistics</masterLabel>
+        <translation><!-- Trans &amp; Logistics --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transport</masterLabel>
+        <translation><!-- Transport --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>eCommerce</masterLabel>
+        <translation><!-- eCommerce --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

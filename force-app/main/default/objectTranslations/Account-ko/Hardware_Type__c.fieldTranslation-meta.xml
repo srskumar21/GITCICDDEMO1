@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Hardware Type --></label>
+    <name>Hardware_Type__c</name>
+    <picklistValues>
+        <masterLabel>3rd Party</masterLabel>
+        <translation><!-- 3rd Party --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Combo</masterLabel>
+        <translation><!-- Combo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Covetrus</masterLabel>
+        <translation><!-- Covetrus --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

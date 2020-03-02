@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>CUST_NAME</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.Change_Status__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Account_Name__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Shipping_City__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Shipping_Street__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Shipping_State_Province__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Shipping_Country__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.New_Shipping_Postal_Code__c</field>
+    </columns>
+    <columns>
+        <field>Account_Update_Request__c.Comment__c</field>
+    </columns>
+    <currency>USD</currency>
+    <description>List of all AUR&#39;s with change status and new name, new address, and comments.</description>
+    <format>Tabular</format>
+    <name>All AUR List</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>CustomEntity$Account_Update_Request__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <sortColumn>CUST_NAME</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CUST_CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

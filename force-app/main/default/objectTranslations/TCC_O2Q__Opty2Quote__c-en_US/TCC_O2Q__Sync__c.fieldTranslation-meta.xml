@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Sync --></label>
+    <name>TCC_O2Q__Sync__c</name>
+    <picklistValues>
+        <masterLabel>Don&#39;t Sync</masterLabel>
+        <translation><!-- Don&apos;t Sync --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sync</masterLabel>
+        <translation><!-- Sync --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

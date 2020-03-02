@@ -1,0 +1,7 @@
+The request you submitted to add/update a customer account has been assigned back to you for further edits. Please refer to comments below for details.
+ 
+Comments from approver:
+{!ApprovalRequest.Comments}
+
+Please resubmit changes with edits made or additional context provided in the comments. 
+{!Account_Update_Request__c.Link}
