@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- Number of Client E-mails --></label>
-    <name>Number_of_Client_E_mails__c</name>
-</CustomFieldTranslation>

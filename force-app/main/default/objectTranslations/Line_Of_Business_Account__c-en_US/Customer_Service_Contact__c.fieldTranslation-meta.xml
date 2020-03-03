@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- Customer Service Contact --></label>
-    <name>Customer_Service_Contact__c</name>
-    <relationshipLabel><!-- Line Of Business Account (Customer Service Contact) --></relationshipLabel>
-</CustomFieldTranslation>

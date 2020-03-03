@@ -1,9 +1,0 @@
-Hi {!Error_Logger__c.User_Name__c}, <br><br>
-
-
-Incident  <a href="{!Error_Logger__c.Link} " > {!Error_Logger__c.Name}</a> has been created on your name. Confirmation mail will be sent when it is fixed. <br><br>
-
-For details check the incident {!Error_Logger__c.Name}.<br><br> 
-
-Regards,<br> 
-<b>Error Logger Support</b>
