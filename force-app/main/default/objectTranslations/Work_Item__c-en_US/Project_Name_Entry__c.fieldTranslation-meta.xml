@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Use this field to name the project to be created.  If left blank, the project will be named via a formula. --></help>
-    <label><!-- Project Name --></label>
-    <name>Project_Name_Entry__c</name>
-</CustomFieldTranslation>
