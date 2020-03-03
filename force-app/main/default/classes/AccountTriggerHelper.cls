@@ -6,7 +6,7 @@ by AccountTeamMember.
 *** Class Created Date       :  9/10/2019
 *       Modified Date        :  27/12/2019  
 *       Modified By          :  Hanumath 
-* Source Of Modification     :  CCRM-3788--Vinod
+* Source Of Modification     :  CCRM-3788
 ******************************************************************************************************************/
 public with sharing class AccountTriggerHelper {
     /***************************************************************************************************************

@@ -5,6 +5,10 @@
         <description>Send an email to Case Contact when case is created from Email</description>
         <protected>false</protected>
         <recipients>
+            <field>ContactEmail</field>
+            <type>email</type>
+        </recipients>
+        <recipients>
             <field>SuppliedEmail</field>
             <type>email</type>
         </recipients>
