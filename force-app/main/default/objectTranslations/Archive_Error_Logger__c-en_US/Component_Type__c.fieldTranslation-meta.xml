@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Component Type --></label>
+    <name>Component_Type__c</name>
+    <picklistValues>
+        <masterLabel>Apex Class</masterLabel>
+        <translation><!-- Apex Class --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Apex Trigger</masterLabel>
+        <translation><!-- Apex Trigger --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Approval Process</masterLabel>
+        <translation><!-- Approval Process --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Flow</masterLabel>
+        <translation><!-- Flow --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Process Builder</masterLabel>
+        <translation><!-- Process Builder --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Visualforce Page</masterLabel>
+        <translation><!-- Visualforce Page --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Workflow</masterLabel>
+        <translation><!-- Workflow --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

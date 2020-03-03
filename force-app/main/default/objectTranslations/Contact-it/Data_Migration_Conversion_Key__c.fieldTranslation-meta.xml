@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Represents the primary identifier for the record from the legacy source system when migrated. --></help>
+    <label><!-- Data Migration Conversion Key --></label>
+    <name>Data_Migration_Conversion_Key__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Name related to custom metadata for Boomi connectivity for Covetrus Shared View --></help>
+    <label><!-- Covetrus Shared View Service Name --></label>
+    <name>Covetrus_Shared_View_Service_Name__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Client Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Client Information</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- Alert --></label>
+        <name>Alert</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Environment --></label>
+        <name>Environment</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Remote Access --></label>
+        <name>Remote_Access</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

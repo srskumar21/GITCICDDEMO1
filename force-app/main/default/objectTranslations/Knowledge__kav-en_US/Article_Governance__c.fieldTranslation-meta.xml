@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Article Governance --></label>
+    <name>Article_Governance__c</name>
+    <picklistValues>
+        <masterLabel>Compliance Based</masterLabel>
+        <translation><!-- Compliance Based --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Experience Based</masterLabel>
+        <translation><!-- Experience Based --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

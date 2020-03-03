@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Base Path for Covetrus Customer Requests --></help>
+    <label><!-- Covetrus Customer Request Path --></label>
+    <name>Covetrus_Customer_Request_Path__c</name>
+</CustomFieldTranslation>

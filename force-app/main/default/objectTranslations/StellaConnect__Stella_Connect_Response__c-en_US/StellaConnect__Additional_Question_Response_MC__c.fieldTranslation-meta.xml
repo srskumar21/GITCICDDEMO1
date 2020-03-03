@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Additional Question Response (MC) --></label>
+    <name>StellaConnect__Additional_Question_Response_MC__c</name>
+</CustomFieldTranslation>

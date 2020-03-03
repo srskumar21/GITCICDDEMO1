@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Legacy Impromed Account Number. --></help>
+    <label><!-- IMP Account Number --></label>
+    <name>IMP_Account_Number__c</name>
+</CustomFieldTranslation>

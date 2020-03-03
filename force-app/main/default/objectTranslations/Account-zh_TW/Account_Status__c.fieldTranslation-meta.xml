@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Account Status --></label>
+    <name>Account_Status__c</name>
+    <picklistValues>
+        <masterLabel>Active</masterLabel>
+        <translation><!-- Active --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inactive</masterLabel>
+        <translation><!-- Inactive --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Legal Action</masterLabel>
+        <translation><!-- Legal Action --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No Supply</masterLabel>
+        <translation><!-- No Supply --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Send a mail to assignee</name>
+    <style>none</style>
+    <subject>Incident {!Error_Logger__c.Name} assign confirmation</subject>
+    <textOnly>Hi {!Error_Logger__c.Assigned_To__c},
+
+Incident {!Error_Logger__c.Name} has been assigned to you.
+
+Reecord ID: {!Error_Logger__c.Id}
+
+Link: {!Error_Logger__c.Link}</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

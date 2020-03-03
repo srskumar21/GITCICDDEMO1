@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- API Name of the Processor Class used to query data for CCV --></help>
+    <label><!-- Processor Class --></label>
+    <name>Processor_Class__c</name>
+</CustomFieldTranslation>

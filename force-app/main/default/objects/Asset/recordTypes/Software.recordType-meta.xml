@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Software</fullName>
+    <active>true</active>
+    <description>This asset category describes the Practice management software to include the configuration of that software (modules and versions) that has been sold to a particular Animal Care Business (Clinic)</description>
+    <label>Software</label>
+    <picklistValues>
+        <picklist>Status</picklist>
+        <values>
+            <fullName>Installed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Purchased</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Registered</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shipped</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

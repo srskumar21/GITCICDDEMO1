@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Article Sub-Category --></label>
+    <name>Product_Area__c</name>
+    <picklistValues>
+        <masterLabel>API</masterLabel>
+        <translation><!-- API --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Administration</masterLabel>
+        <translation><!-- Administration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ancillary Devices</masterLabel>
+        <translation><!-- Ancillary Devices --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Announcements</masterLabel>
+        <translation><!-- Announcements --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Backups</masterLabel>
+        <translation><!-- Backups --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Billable Item Management</masterLabel>
+        <translation><!-- Billable Item Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Calendar and Scheduling</masterLabel>
+        <translation><!-- Calendar and Scheduling --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Campaigns</masterLabel>
+        <translation><!-- Campaigns --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clients and Patients</masterLabel>
+        <translation><!-- Clients and Patients --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Cards</masterLabel>
+        <translation><!-- Credit Cards --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DICOM</masterLabel>
+        <translation><!-- DICOM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Invoicing and Account Balance</masterLabel>
+        <translation><!-- Invoicing and Account Balance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lab In House</masterLabel>
+        <translation><!-- Lab In House --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lab Reference</masterLabel>
+        <translation><!-- Lab Reference --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Legacy</masterLabel>
+        <translation><!-- Legacy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Network</masterLabel>
+        <translation><!-- Network --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Operating System</masterLabel>
+        <translation><!-- Operating System --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Practice Performance</masterLabel>
+        <translation><!-- Practice Performance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Printer</masterLabel>
+        <translation><!-- Printer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Procedures</masterLabel>
+        <translation><!-- Procedures --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Release Notes</masterLabel>
+        <translation><!-- Release Notes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reminders</masterLabel>
+        <translation><!-- Reminders --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reporting</masterLabel>
+        <translation><!-- Reporting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SQL</masterLabel>
+        <translation><!-- SQL --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server</masterLabel>
+        <translation><!-- Server --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>System and Practice</masterLabel>
+        <translation><!-- System and Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Users and Rights</masterLabel>
+        <translation><!-- Users and Rights --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Workstation</masterLabel>
+        <translation><!-- Workstation --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

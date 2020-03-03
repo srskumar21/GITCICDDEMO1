@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>KnowledgeArticle$Title</field>
+    </columns>
+    <columns>
+        <field>KnowledgeArticle$ArticleNumber</field>
+    </columns>
+    <columns>
+        <field>KnowledgeArticle$LastModifiedBy</field>
+    </columns>
+    <columns>
+        <field>KnowledgeArticle$LastModifiedDate</field>
+    </columns>
+    <currency>USD</currency>
+    <description>Last Two Weeks</description>
+    <format>Tabular</format>
+    <name>Knowledge Articles Review Report</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>Knowledge_Articles__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>KnowledgeArticle$LastModifiedDate</dateColumn>
+        <endDate>2020-02-16</endDate>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2020-02-02</startDate>
+    </timeFrameFilter>
+</Report>

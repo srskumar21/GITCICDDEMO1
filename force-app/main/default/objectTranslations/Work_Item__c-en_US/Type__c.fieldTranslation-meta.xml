@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>Ancillary Products</masterLabel>
+        <translation><!-- Ancillary Products --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Data Governance</masterLabel>
+        <translation><!-- Data Governance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Onboarding</masterLabel>
+        <translation><!-- Onboarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Training</masterLabel>
+        <translation><!-- Training --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
