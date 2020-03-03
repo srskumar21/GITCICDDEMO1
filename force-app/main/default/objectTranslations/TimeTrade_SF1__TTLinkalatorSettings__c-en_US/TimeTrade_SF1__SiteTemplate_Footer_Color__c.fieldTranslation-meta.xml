@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter hex color code with #, such as #FFAAAA, to set the footer color on externally-facing TimeTrade pages. --></help>
-    <label><!-- SiteTemplate Footer Color --></label>
-    <name>TimeTrade_SF1__SiteTemplate_Footer_Color__c</name>
-</CustomFieldTranslation>

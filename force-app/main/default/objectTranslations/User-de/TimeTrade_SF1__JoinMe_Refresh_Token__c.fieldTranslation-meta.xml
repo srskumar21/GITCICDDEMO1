@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- join.me Refresh Token --></label>
-    <name>TimeTrade_SF1__JoinMe_Refresh_Token__c</name>
-</CustomFieldTranslation>

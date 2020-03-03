@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- For advanced customization, enter the name of a static resource that is used as an additional style sheet for the Click-to-Schedule page.  WARNING: only for advanced customization by subscribers with HTML/CSS skills. --></help>
-    <label><!-- Custom CSS ClickToSchedule --></label>
-    <name>TimeTrade_SF1__ClickToSchedule_Custom_CSS__c</name>
-</CustomFieldTranslation>

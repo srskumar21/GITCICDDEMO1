@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter the daily start time for the custom availability in &quot;HH:mm&quot; 24-hour format, typically &quot;09:00&quot; for normal day and &quot;07:00&quot; for extended day.  Consult TimeTrade support before using of any other value. --></help>
-    <label><!-- Custom Availability Grid Start Time --></label>
-    <name>TimeTrade_SF1__Custom_Availability_Grid_Start_Time__c</name>
-</CustomFieldTranslation>

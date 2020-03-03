@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- This option is deprecated. Please use the field on Invitation Template. --></help>
-    <label><!-- Generic Email for Organizer - Not Used --></label>
-    <name>TimeTrade_SF1__Generic_Email_for_Organizer__c</name>
-</CustomFieldTranslation>

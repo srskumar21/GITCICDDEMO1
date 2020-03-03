@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- The transitional/temporary PIMS being used prior to upgrading to a different PIMS --></help>
-    <label><!-- Transition PIMS --></label>
-    <name>Transition_PIMS__c</name>
-</CustomFieldTranslation>

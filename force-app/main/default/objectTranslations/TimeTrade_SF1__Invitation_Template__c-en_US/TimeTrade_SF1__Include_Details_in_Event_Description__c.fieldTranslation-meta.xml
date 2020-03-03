@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Check this box to include all meeting details in the Description field on the Event created when an appointment is booked. --></help>
-    <label><!-- Include Details in Event Description --></label>
-    <name>TimeTrade_SF1__Include_Details_in_Event_Description__c</name>
-</CustomFieldTranslation>

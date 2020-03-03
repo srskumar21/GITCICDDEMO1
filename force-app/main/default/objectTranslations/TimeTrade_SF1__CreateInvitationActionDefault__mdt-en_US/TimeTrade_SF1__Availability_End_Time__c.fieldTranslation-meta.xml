@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Use with the end date to calculate the Availability End Date/Time value. Must be a string like &quot;11:59 PM&quot;. Will be interpreted in timezone of user executing process. --></help>
-    <label><!-- Availability End Time --></label>
-    <name>TimeTrade_SF1__Availability_End_Time__c</name>
-</CustomFieldTranslation>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Please input the group name which needs to be the default organizer --></help>
-    <label><!-- Default Public Group Name --></label>
-    <name>TimeTrade_SF1__Default_Public_Group_Name__c</name>
-</CustomFieldTranslation>

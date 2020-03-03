@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter the URL of publicly-accessible image that will be used as the header logo on all other TimeTrade email.  This may a public-enabled file in Salesforce Documents or an image hosted on your public website. --></help>
-    <label><!-- Email Template Image URL --></label>
-    <name>TimeTrade_SF1__EmailTemplate_Image__c</name>
-</CustomFieldTranslation>

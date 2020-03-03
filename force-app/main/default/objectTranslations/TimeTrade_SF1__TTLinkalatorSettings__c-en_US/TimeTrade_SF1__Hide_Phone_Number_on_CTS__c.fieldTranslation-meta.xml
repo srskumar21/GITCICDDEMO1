@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Check this box if you do not want the Phone Number field to appear on the Click-to-Schedule page. --></help>
-    <label><!-- Hide Phone Number on CTS --></label>
-    <name>TimeTrade_SF1__Hide_Phone_Number_on_CTS__c</name>
-</CustomFieldTranslation>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- When checked, indicates that users have been provisions in Time Trade. --></help>
-    <label><!-- Provision Users --></label>
-    <name>TimeTrade_SF1__Provision_Users__c</name>
-</CustomFieldTranslation>

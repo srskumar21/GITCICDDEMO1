@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- For Meetings created from TimeTrade Routing Questionnaires, this field will point to the Evaluation Log so that the answers provided by the customer may be viewed. --></help>
-    <label><!-- TimeTrade Routing Evaluation Log --></label>
-    <name>TimeTrade_SF1__TimeTrade_Routing_Evaluation_Log__c</name>
-    <relationshipLabel><!-- TimeTrade Meetings --></relationshipLabel>
-</CustomFieldTranslation>

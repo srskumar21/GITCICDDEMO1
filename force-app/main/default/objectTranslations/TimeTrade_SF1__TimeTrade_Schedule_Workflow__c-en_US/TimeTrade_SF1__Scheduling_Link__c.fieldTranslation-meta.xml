@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- This is the link you may give to your clients so that they may fill in their answers and be routed to the best invitation.  No link is available until you define at least one question and one route. --></help>
-    <label><!-- Scheduling Link --></label>
-    <name>TimeTrade_SF1__Scheduling_Link__c</name>
-</CustomFieldTranslation>

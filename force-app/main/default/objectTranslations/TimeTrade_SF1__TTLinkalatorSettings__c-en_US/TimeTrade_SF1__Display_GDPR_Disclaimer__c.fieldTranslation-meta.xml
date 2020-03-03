@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Check this box to display GDPR Compliance text on the Click-to-Schedule page.  Check your organization&apos;s GDPR compliance policies before unchecking this box. --></help>
-    <label><!-- Display GDPR Disclaimer --></label>
-    <name>TimeTrade_SF1__Display_GDPR_Disclaimer__c</name>
-</CustomFieldTranslation>

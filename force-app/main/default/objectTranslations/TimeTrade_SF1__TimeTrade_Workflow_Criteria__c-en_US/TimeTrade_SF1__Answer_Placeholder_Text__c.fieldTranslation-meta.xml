@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Please enter the place holder text which needs to show up as the default answer --></help>
-    <label><!-- Answer Placeholder Text --></label>
-    <name>TimeTrade_SF1__Answer_Placeholder_Text__c</name>
-</CustomFieldTranslation>

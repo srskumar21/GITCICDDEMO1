@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- The number of times the questionnaire has been visited and the user completed entry and pressed the Next button. --></help>
-    <label><!-- Completed Visit Count --></label>
-    <name>TimeTrade_SF1__Completed_Visit_Count__c</name>
-</CustomFieldTranslation>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Approval requires - 1, Approval not required = 0 --></help>
-    <label><!-- Requires Approval --></label>
-    <name>accessnow__Requires_Approval__c</name>
-</CustomFieldTranslation>

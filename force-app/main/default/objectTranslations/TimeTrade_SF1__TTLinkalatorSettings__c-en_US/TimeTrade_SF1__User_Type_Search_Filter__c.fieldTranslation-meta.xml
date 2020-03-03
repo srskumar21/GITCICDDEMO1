@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Optionally enter a comma-delimited list of values to filter User by UserType on Create Invitation search.  &quot;Standard&quot; is the most common value. Valid Values – Standard, PowerPartner, PowerCustomerSuccess, CustomerSuccess, Guest, CspLitePortal, CsnOnly. --></help>
-    <label><!-- User Type Search Filter --></label>
-    <name>TimeTrade_SF1__User_Type_Search_Filter__c</name>
-</CustomFieldTranslation>

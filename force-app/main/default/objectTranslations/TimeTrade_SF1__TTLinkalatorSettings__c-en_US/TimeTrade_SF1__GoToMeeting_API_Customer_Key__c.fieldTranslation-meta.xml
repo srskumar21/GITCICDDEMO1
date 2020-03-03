@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter Customer Key from GTM Developer Center.  See https://goto-developer.logmeininc.com for GoToMeeting information. --></help>
-    <label><!-- GoToMeeting API Customer Key --></label>
-    <name>TimeTrade_SF1__GoToMeeting_API_Customer_Key__c</name>
-</CustomFieldTranslation>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- Resource Text Name --></label>
-    <name>TimeTrade_SF1__Resource_Text_Name__c</name>
-</CustomFieldTranslation>

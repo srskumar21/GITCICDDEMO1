@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Check this field if you wish to over-ride the assignment rules for this record --></help>
-    <label><!-- Over-ride Assignment on Create --></label>
-    <name>Over_ride_Assignment_on_Create__c</name>
-</CustomFieldTranslation>

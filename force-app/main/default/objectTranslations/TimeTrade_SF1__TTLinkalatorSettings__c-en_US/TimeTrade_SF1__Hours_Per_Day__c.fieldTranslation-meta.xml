@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter &quot;8&quot; for typical installations.  Alter this value only if you have worked with TimeTrade Support to change the length of your work day. --></help>
-    <label><!-- Hours Per Day --></label>
-    <name>TimeTrade_SF1__Hours_Per_Day__c</name>
-</CustomFieldTranslation>

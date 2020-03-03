@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Enter your Zoom API Key. See jZoom instructions in the TimeTrade Scheduler Installation documentation and https://marketplace.zoom.us/ for details. --></help>
-    <label><!-- Zoom API Key --></label>
-    <name>TimeTrade_SF1__Zoom_API_Key__c</name>
-</CustomFieldTranslation>
